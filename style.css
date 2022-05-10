@@ -11,7 +11,9 @@
 }
 
 .imagege{
-  background-image: url('the-cafe/images/coffeehouse.jpg')
+  background-image: url('images/coffeehouse.jpg');
+  width: 100%;
+  
 }
 
 html, body {
